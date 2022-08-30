@@ -1,0 +1,2 @@
+# clearConsoleLogLoader
+clearConsoleLogLoader
