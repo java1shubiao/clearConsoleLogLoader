@@ -1,0 +1,12 @@
+{
+  "name": "git-cli-demo",
+  "version": "1.0.0",
+  "description": "git 自动化脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/index.js"
+  },
+  "author": "liuhaonan",
+  "license": "ISC"
+}
