@@ -17,6 +17,11 @@ try {
     },
     {
       type: 'input',
+      name: 'stage',
+      message: '当前处于什么阶段' // develop、test、inlineGray（内灰）、outlineGray（外灰）
+    },
+    {
+      type: 'input',
       name: 'type',
       message: 'commit类型'
     },
